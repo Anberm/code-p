@@ -1,0 +1,7 @@
+{
+  "name": "code-p",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
