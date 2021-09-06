@@ -31,7 +31,9 @@
                 "output": "./svg"
               }
             ],
-            "styles": ["src/theme/variables.scss", "src/global.scss"],
+            "styles": [
+              "node_modules/ng-zorro-antd-mobile/src/ng-zorro-antd-mobile.min.css",
+              "src/theme/variables.scss", "src/global.scss"],
             "scripts": [],
             "aot": false,
             "vendorChunk": true,

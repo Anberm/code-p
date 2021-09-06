@@ -2,5 +2,12 @@
 	"appId": "io.ionic.starter",
 	"appName": "code-p",
 	"webDir": "www",
-	"bundledWebRuntime": false
+	"bundledWebRuntime": false,
+	"plugins": {
+		"CodePush": {
+		  "IOS_DEPLOY_KEY": "zX4tsXuBxFOm9dYzAzB3yrqmhbQrV-OjhcPyk",
+		  "ANDROID_DEPLOY_KEY": "d7X04dGaTv4iiBtO-oSM-J5Lj2DSsAyJ4YxuK",
+		  "SERVER_URL": "https://codepush.appcenter.ms/"
+		}
+	  }
 }
